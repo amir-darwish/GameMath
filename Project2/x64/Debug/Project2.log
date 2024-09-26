@@ -1,0 +1,4 @@
+﻿  Project2.cpp
+C:\Users\Windows\Desktop\projects\MathGame\Project2\Project2.cpp(228,1): warning C4715: 'CheckAnswer': not all control paths return a value
+C:\Users\Windows\Desktop\projects\MathGame\Project2\Project2.cpp(200,1): warning C4715: 'GenerateNumMixOP': not all control paths return a value
+  Project2.vcxproj -> C:\Users\Windows\Desktop\projects\MathGame\x64\Debug\Project2.exe
